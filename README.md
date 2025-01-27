@@ -150,6 +150,76 @@ I’m a full-stack developer with 4 years of experience developing and implement
       </a>
       <br>Wordpress
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
+          width="48"
+          height="48"
+          alt="ExpressJS" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+          width="48"
+          height="48"
+          alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"
+          width="48"
+          height="48"
+          alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
+          width="48"
+          height="48"
+          alt="Pytest" />
+      </a>
+      <br>Pytest
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+          width="48"
+          height="48"
+          alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
+          width="48"
+          height="48"
+          alt="MaterialUI" />
+      </a>
+      <br>MUI
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+          width="48"
+          height="48"
+          alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
   </tr>
 </table>
 
