@@ -228,6 +228,8 @@ I’m a full-stack developer with 4 years of experience developing and implement
 
 > Here are some of my recent side projects
 
+...
+
 <!-- Footer -->
 ![Marquee SVG](https://github.com/cdznd/cdznd/blob/e4365d6ea13db945b1e7d9cc235f18c10bca68a2/marquee.svg)
 
