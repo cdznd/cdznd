@@ -248,7 +248,21 @@ I’m a full-stack developer with 4 years of experience developing and implement
 
 > Here are some of my recent side projects
 
-...
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Todo React App</h3>
+      <br />
+      <a target="_blank" href="#">
+        <img src="" width="100%" alt="Todo React App"/>
+      </a>
+      <br />
+      <p>
+        Full-stack project using express.js + react for managing a list of tasks
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Footer -->
 ![Marquee SVG](https://github.com/cdznd/cdznd/blob/e4365d6ea13db945b1e7d9cc235f18c10bca68a2/marquee.svg)
