@@ -220,6 +220,26 @@ I’m a full-stack developer with 4 years of experience developing and implement
       </a>
       <br>AWS
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+          width="48"
+          height="48"
+          alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+          width="48"
+          height="48"
+          alt="Swagger" />
+      </a>
+      <br>Swagger
+    </td>
   </tr>
 </table>
 
