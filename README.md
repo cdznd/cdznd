@@ -258,7 +258,7 @@ I’m a full-stack developer with 4 years of experience developing and implement
       </a>
       <br />
       <p>
-        Full-stack project using <strong>ExpressJS</strong>, <strong>Typescript</strong>, <strong>Jest</strong>, <strong>Supertest</strong>, <strong>React</strong>, and <strong>JWT</strong>.
+        Full-stack project task management project using <strong>ExpressJS</strong>, <strong>Typescript</strong>, <strong>SWR</strong>, <strong>Jest</strong>, <strong>Supertest</strong>, <strong>React</strong>, and <strong>JWT</strong>.
         This project allows the creation, management, and prioritization of tasks and features a WYSIWYG editor. Authentication is implemented using JWT with a refresh token mechanism.
       </p>
     </td>
@@ -272,7 +272,7 @@ I’m a full-stack developer with 4 years of experience developing and implement
       <br />
       <p textAlign="center">
         Full-stack social media project using <strong>NextJS 15</strong> with <strong>App Router</strong>, <strong>GraphQL</strong>, <strong>Nexus</strong>, <strong>Apollo Server</strong>, <strong>Prisma</strong>, <strong>Typescript</strong>, <strong>Jest</strong>, and <strong>MUI</strong>.
-        The project features multiple feeds, including a private feed for friends' posts, an explore feed for public posts, and a profile feed. It also includes a friendship system, notifications and post interactions such as likes.
+        The project features multiple feeds, including a private feed for friends' posts, an explore feed for public posts, and a profile feed, all with search and filtering functionalities. It also includes a friendship system, notifications, and post interactions such as likes.
       </p>
     </td>
   </tr>
