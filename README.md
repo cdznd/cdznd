@@ -246,11 +246,11 @@ I’m a full-stack developer with 4 years of experience developing and implement
 ---
 <h2 align="left">Side projects</h2>
 
-> Here are some of my recent side projects
+> Here are some of my recent side projects. Reach out to me for repository access and further discussions.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3 align="center">Todo React App</h3>
       <br />
       <a target="_blank" href="#">
@@ -258,7 +258,21 @@ I’m a full-stack developer with 4 years of experience developing and implement
       </a>
       <br />
       <p>
-        Full-stack project using express.js + react for managing a list of tasks
+        Full-stack project using <strong>ExpressJS</strong>, <strong>Typescript</strong>, <strong>Jest</strong>, <strong>Supertest</strong>, <strong>React</strong>, and <strong>JWT</strong>.
+        This project allows the creation, management, and prioritization of tasks and features a WYSIWYG editor. Authentication is implemented using JWT with a refresh token mechanism.
+      </p>
+    </td>
+    <td width="4%"></td> <!-- Empty column for spacing -->
+    <td width="48%" valign="top">
+      <h3 align="center">Social Media App</h3>
+      <br />
+      <a target="_blank" href="#">
+        <img src="https://github.com/cdznd/cdznd/blob/main/app.gif" width="100%" alt="Todo React App"/>
+      </a>
+      <br />
+      <p textAlign="center">
+        Full-stack social media project using <strong>NextJS 15</strong> with <strong>App Router</strong>, <strong>GraphQL</strong>, <strong>Nexus</strong>, <strong>Apollo Server</strong>, <strong>Prisma</strong>, <strong>Typescript</strong>, <strong>Jest</strong>, and <strong>MUI</strong>.
+        The project features multiple feeds, including a private feed for friends' posts, an explore feed for public posts, and a profile feed. It also includes a friendship system, notifications and post interactions such as likes.
       </p>
     </td>
   </tr>
