@@ -7,7 +7,7 @@
 </div>
 
 # Hey there 👋, I'm Fabricio
-I’m a full-stack developer with 4 years of experience developing and implementing applications and solutions using a range of technologies and programming languages.
+I’m a Full-stack Engineer with 5 years of experience developing and implementing applications and solutions using a‬ range of technologies and programming languages. Throughout my career, I've worked on various web projects,‬ including back-end, front-end, and cloud, where I consistently applied best development practices, maintained clean‬ and efficient code, and ensured effective communication and collaboration with the teams I worked with.‬
 
 📫 **How to reach me:** floyd9732@gmail.com
 
