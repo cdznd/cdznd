@@ -272,7 +272,8 @@ I’m a Full-stack Engineer with 5 years of experience developing and implementi
       <br />
       <p textAlign="center">
         Full-stack social media project using <strong>NextJS 15</strong> with <strong>App Router</strong>, <strong>GraphQL</strong>, <strong>Nexus</strong>, <strong>Apollo Server</strong>, <strong>Prisma</strong>, <strong>Typescript</strong>, <strong>Jest</strong>, and <strong>MUI</strong>.
-        The project features multiple feeds, including a private feed for friends' posts, an explore feed for public posts, and a profile feed, all with search and filtering functionalities. It also includes a friendship system, notifications, and post interactions such as likes.
+        The project features multiple feeds, including a private feed for friends' posts, an explore feed for public posts, and a profile feed, all with search and filtering functionalities. It also includes a friendship system, notifications, and post interactions such as likes and comments.
+        Project Deployed using <a href="https://vercel.com/">Vercel</a> and a Postgres <a href="https://railway.com/">Railway</a> database.
       </p>
     </td>
   </tr>
