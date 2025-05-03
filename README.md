@@ -142,13 +142,13 @@ I’m a Full-stack Engineer with 5 years of experience developing and implementi
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
           width="48"
           height="48"
-          alt="Wordpress" />
+          alt="Django" />
       </a>
-      <br>Wordpress
+      <br>Django
     </td>
     <td align="center" width="96">
       <a href="#">
